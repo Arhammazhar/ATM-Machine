@@ -1,6 +1,6 @@
 {
   "name": "atm-machine-muhammad-arham",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a CLI-based ATM machine.",
   "main": "main.js",
   "type": "module",

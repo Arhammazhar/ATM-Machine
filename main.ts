@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-let myBalance = 5000;
+let myBalance = 50000;
 let myPin = 12345;
 
 console.log("WELCOME TO ATM MACHINE!!!");
